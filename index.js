@@ -18,7 +18,9 @@ const readings = [
     message: "You are divine beauty. Embrace your reflection without judgment.",
     ritual: "Look in a mirror and say 'I am love, I am whole' three times."
   },
-  {
-    goddess: "Kuan Yin",
-    theme: "Compassion",
-    message: "Forgive yourself. Extend grace
+ {
+  goddess: "Kuan Yin",
+  theme: "Compassion",
+  message: "Forgive yourself. Extend grace to others. Flow with softness.",
+  ritual: "Write a forgiveness letter you never have to send."
+}
